@@ -1,0 +1,6 @@
+
+/gone.html 1;
+~^/gone-dir/? 1;
+
+~^/category/* 1;
+~^/tag/* 1;
